@@ -200,7 +200,7 @@ fun ticketDetailsContent(modifier: Modifier = Modifier) {
             )//end image
             Spacer(modifier = Modifier.width(2.dp))
             Text(
-                text = "Crypto.com Arena, 7PM",
+                text = "Crypto.com Arenafskjlfjlsjljfjlfjlajlf, 7PM",
                 style = TextStyle(
                     fontSize = 15.sp,
                     color = Color(0XFF797979),
